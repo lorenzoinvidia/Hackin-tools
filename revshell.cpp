@@ -88,9 +88,6 @@ int SpawnShell(void *sock, char *cmd) {
 int __cdecl main(VOID) {
    WSADATA wd;
    struct sockaddr_in addr = {0};
-   STARTUPINFO si = {0};
-   PROCESS_INFORMATION pi;
-
 
 #ifndef RUNTIME_LINK
 
