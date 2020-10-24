@@ -19,3 +19,12 @@ A lovely set of scripts and tools I use on my hacking journey
 
 * [hex-to-carray.sh](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/hex-to-carray.sh)  
     Convert a hexdump to a C array format
+
+* [bind-shell.ps1](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/bind-shell.ps1)  
+    A powershell script to spawn a bind shell
+
+* [reverse-shell.ps1](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/reverse-shell.ps1)  
+    A powershell script to spawn a reverse shell
+
+* [portscan.ps1](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/reverse-shell.ps1)  
+    A simple powershell port scanner
