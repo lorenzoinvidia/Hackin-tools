@@ -28,9 +28,13 @@ A lovely set of scripts and tools I use on my hacking journey
 * [portscan.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/reverse-shell.ps1)  
     A simple powershell port scanner
 
+* [php-reverse-shell.php](https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php)
+
 * [linenum.sh](https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh)
 
 * [linPEAS.sh](https://raw.githubusercontent.com/carlospolop/privilege-escalation-awesome-scripts-suite/master/linPEAS/linpeas.sh)
+
+
 ### List of bins
 
 * [nc 32bit](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/bins/nc32.exe?raw=true)
