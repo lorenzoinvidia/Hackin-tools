@@ -7,25 +7,25 @@ A lovely set of scripts and tools I use on my hacking journey
 
 ### List of scripts
 
-* [revshell.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/blob/master/revshell.cpp)  
+* [revshell.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/revshell.cpp)  
      A hidden reverse powershell written in C++ using win32 WSA sockets
 
-* [GetUserFromProc.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/blob/master/GetUserFromProc.cpp)  
+* [GetUserFromProc.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/GetUserFromProc.cpp)  
     Get the domain\user of a given PID 
 
-* [verifyDll.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/blob/master/verifyDll.ps1)  
+* [verifyDll.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/verifyDll.ps1)  
     A powershell script that checks for signed dlls in wow64 using [signtool](https://docs.microsoft.com/en-us/dotnet/framework/tools/signtool-exe)
 
-* [hex-to-carray.sh](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/blob/master/hex-to-carray.sh)  
+* [hex-to-carray.sh](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/hex-to-carray.sh)  
     Convert a hexdump to a C array format
 
-* [bind-shell.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/blob/master/bind-shell.ps1)  
+* [bind-shell.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/bind-shell.ps1)  
     A powershell script to spawn a bind shell
 
-* [reverse-shell.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/blob/master/reverse-shell.ps1)  
+* [reverse-shell.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/reverse-shell.ps1)  
     A powershell script to spawn a reverse shell
 
-* [portscan.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/blob/master/reverse-shell.ps1)  
+* [portscan.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/reverse-shell.ps1)  
     A simple powershell port scanner
 
 * [linenum.sh](https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh)
