@@ -25,8 +25,11 @@ A lovely set of scripts and tools I use on my hacking journey
 * [reverse-shell.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/reverse-shell.ps1)  
     A powershell script to spawn a reverse shell
 
-* [portscan.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/reverse-shell.ps1)  
+* [portscan.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/portscan.ps1)  
     A simple powershell port scanner
+
+* [portscan.py](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/portscan.py)  
+    A simple python port scanner
 
 * [php-reverse-shell.php](https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php)
 
