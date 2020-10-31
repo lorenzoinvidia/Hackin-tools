@@ -7,36 +7,23 @@ A lovely set of scripts and tools I use on my hacking journey
 
 ### List of scripts
 
-* [revshell.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/revshell.cpp)  
-     A hidden reverse powershell written in C++ using win32 WSA sockets
+* [revshell.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/revshell.cpp) A hidden reverse powershell written in C++ using win32 WSA sockets
 
-* [GetUserFromProc.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/GetUserFromProc.cpp)  
-    Get the domain\user of a given PID 
-
-* [verifyDll.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/verifyDll.ps1)  
-    A powershell script that checks for signed dlls in wow64 using [signtool](https://docs.microsoft.com/en-us/dotnet/framework/tools/signtool-exe)
-
-* [hex-to-carray.sh](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/hex-to-carray.sh)  
-    Convert a hexdump to a C array format
-
-* [bind-shell.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/bind-shell.ps1)  
-    A powershell script to spawn a bind shell
-
-* [reverse-shell.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/reverse-shell.ps1)  
-    A powershell script to spawn a reverse shell
-
-* [portscan.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/portscan.ps1)  
-    A simple powershell port scanner
-
-* [portscan.py](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/portscan.py)  
-    A simple python port scanner
-
+* [GetUserFromProc.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/GetUserFromProc.cpp) Get the domain\user of a given PID 
+* [verifyDll.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/verifyDll.ps1) A powershell script that checks for signed dlls in wow64
+* [hex-to-carray.sh](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/hex-to-carray.sh) Convert a hexdump to a C array format
+* [bind-shell.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/bind-shell.ps1) A powershell script to spawn a bind shell
+* [reverse-shell.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/reverse-shell.ps1) A powershell script to spawn a reverse shell
+* [portscan.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/portscan.ps1) A simple powershell port scanner
+* [portscan.py](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/portscan.py) A simple python port scanner
 * [php-reverse-shell.php](https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php)
-
 * [linenum.sh](https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh)
-
 * [linPEAS.sh](https://raw.githubusercontent.com/carlospolop/privilege-escalation-awesome-scripts-suite/master/linPEAS/linpeas.sh)
-
+* [Sublist3r](https://github.com/aboul3la/Sublist3r)
+* [wafw00f](https://github.com/EnableSecurity/wafw00f) Firewall detection
+* [wpscan](https://github.com/wpscanteam/wpscan) WordPress vulnerability scanner
+* [joomscan](https://github.com/rezasp/joomscan) Joomla vulnerability scanner
+* [droopescan](https://github.com/droope/droopescan) Drupal vulnerability scanner
 
 ### List of bins
 
