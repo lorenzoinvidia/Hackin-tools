@@ -5,10 +5,11 @@
 # Hackin-tools
 A lovely set of scripts and tools I use on my hacking journey 
 
-### List of scripts
+### List of payloads and src
 
 * [impacket](https://github.com/SecureAuthCorp/impacket/archive/master.zip)
 * [revshell.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/revshell.cpp) A hidden reverse powershell written in C++ using win32 WSA sockets
+* [dumper.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/dumper.cpp) Stealthier alternative to mimikatz
 * [GetUserFromProc.cpp](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/GetUserFromProc.cpp) Get the domain\user of a given PID 
 * [verifyDll.ps1](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/verifyDll.ps1) A powershell script that checks for signed dlls in wow64
 * [hex-to-carray.sh](https://raw.githubusercontent.com/lorenzoinvidia/Hackin-tools/master/hex-to-carray.sh) Convert a hexdump to a C array format
@@ -42,6 +43,7 @@ A lovely set of scripts and tools I use on my hacking journey
 * [pspy 64bit](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/bins/pspy64s?raw=true)
 * [procdump 32bit](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/bins/procdump32.exe?raw=true)
 * [procdump 64bit](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/bins/procdump64.exe?raw=true)
+* [dumper 64bit](https://github.com/lorenzoinvidia/Hackin-tools/raw/master/bins/dumper.exe)
 * [mimikatz 32bit](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/bins/mimikatz32.exe?raw=true)
 * [mimikatz 64bit](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/bins/mimikatz64.exe?raw=true)
 * [winPEAS 32bit](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/blob/master/winPEAS/winPEASexe/winPEAS/bin/x86/Release/winPEAS.exe?raw=true)
