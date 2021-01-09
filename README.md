@@ -33,19 +33,6 @@ A lovely set of scripts and tools I use on my hacking journey
 * [SSTI](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection) Set of payloads for Server side template injection
 * [NoSQLi](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection) Set of payloads for NoSQLi
 * [SQLi](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) Set of payloads for SQLi
-* [FI](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion) Set of payloads for File inclusion
-* [File upload](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files) File upload examples
-* [XPATH injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injection) Set of payloads for XPATH injection
-* [SSRF](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery) Set of payloads for Server side request forgery
-* [Request smuggling](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Request%20Smuggling) Set of payloads for Request smuggling
-* [Open Redirect](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect) Set of payloads for Open Redirection
-* [Type Juggling](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Type%20Juggling) Set of payloads for PHP type juggling
-* [Web sockets](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Sockets) Set of payloads for web sockets
-* [Cache deception](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Cache%20Deception) Set of payloads for cache poisoning
-* [JWT](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/JSON%20Web%20Token) JWT payloads
-* [OAuth](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth) OAuth payloads
-* [Insecure Direct Object Ref](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References) Insecure Direct Object Reference
-* [Insecure Deserialization](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Deserialization) Insecure Deserialization
 
 ### List of bins
 
