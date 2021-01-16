@@ -52,3 +52,4 @@ A lovely set of scripts and tools I use on my hacking journey
 ### List of frameworks
 * [Nishang](https://github.com/samratashok/nishang/archive/master.zip)
 * [Powersploit](https://github.com/PowerShellMafia/PowerSploit/archive/master.zip)
+* [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation/archive/master.zip)
