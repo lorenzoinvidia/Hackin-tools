@@ -22,9 +22,6 @@ A lovely set of scripts and tools I use on my hacking journey
 * [linPEAS.sh](https://raw.githubusercontent.com/carlospolop/privilege-escalation-awesome-scripts-suite/master/linPEAS/linpeas.sh)
 * [Sublist3r](https://github.com/aboul3la/Sublist3r)
 * [wafw00f](https://github.com/EnableSecurity/wafw00f) Firewall detection
-* [wpscan](https://github.com/wpscanteam/wpscan) WordPress vulnerability scanner
-* [joomscan](https://github.com/rezasp/joomscan) Joomla vulnerability scanner
-* [droopescan](https://github.com/droope/droopescan) Drupal vulnerability scanner
 * [LDAP injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection) Set of payloads for ldap injection
 * [XSS injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection) Set of payloads for xss injection
 * [CSRF](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection) Set of payloads for cross site request forgery
