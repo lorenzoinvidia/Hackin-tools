@@ -46,6 +46,8 @@ A lovely set of scripts and tools I use on my hacking journey
 * [mimikatz 64bit](https://github.com/lorenzoinvidia/Hackin-tools/blob/master/bins/mimikatz64.exe?raw=true)
 * [winPEAS 32bit](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/blob/master/winPEAS/winPEASexe/winPEAS/bin/x86/Release/winPEAS.exe?raw=true)
 * [winPEAS 64bit](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/blob/master/winPEAS/winPEASexe/winPEAS/bin/x64/Release/winPEAS.exe?raw=true)
+* [chisel windows](https://github.com/lorenzoinvidia/Hackin-tools/raw/master/bins/chisel.exe)
+* [chisel linux](https://github.com/lorenzoinvidia/Hackin-tools/raw/master/bins/chisel)
 
 ### List of frameworks
 * [Nishang](https://github.com/samratashok/nishang/archive/master.zip)
